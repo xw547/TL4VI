@@ -49,12 +49,6 @@ LICENSE
    * Launch `to_be_upload/real_data/classification_loop.ipynb` for classification examples.
    * Launch `to_be_upload/real_data/regression_loop_oob.ipynb` for regression examples.
 
----
-
-## Future Updates
-
-* Add main manuscript files.
-* Include supplementary figures and LaTeX source.
 
 ---
 
