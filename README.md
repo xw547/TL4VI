@@ -1,4 +1,4 @@
-# Targeted Learning for Variable Importance (TL4VI)
+# Targeted Learning for Variable Importance 
 
 This repository contains the reproducible code and data for the paper **“Targeted Learning for Variable Importance” (TL4VI)**. Currently, it hosts simulation experiments, real-data analyses, and supporting scripts. 
 
