@@ -25,7 +25,6 @@ to_be_upload/
 
 README.md
 requirements.txt
-LICENSE
 ```
 
 ---
