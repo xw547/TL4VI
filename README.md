@@ -1,6 +1,6 @@
 # Targeted Learning for Variable Importance 
 
-This repository contains the reproducible code and data for the paper **“Targeted Learning for Variable Importance” (TL4VI)**. Currently, it hosts simulation experiments, real-data analyses, and supporting scripts. 
+This repository contains the reproducible code and data for the paper **“Targeted Learning for Variable Importance” **. Currently, it hosts simulation experiments, real-data analyses, and supporting scripts. 
 
 ---
 
@@ -54,3 +54,23 @@ requirements.txt
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## Citation
+
+If you use this repository in your work, please cite our paper:
+
+**Wang, X., Zhou, Y., & Hooker, G. (2024).** Targeted Learning for Variable Importance. *arXiv* preprint arXiv:2411.02221. [https://doi.org/10.48550/arXiv.2411.02221](https://doi.org/10.48550/arXiv.2411.02221)
+
+BibTeX entry:
+
+```bibtex
+@article{wang2024targeted,
+  title={Targeted Learning for Variable Importance},
+  author={Wang, Xiaohan and Zhou, Yunzhe and Hooker, Giles},
+  journal={arXiv preprint arXiv:2411.02221},
+  year={2024},
+  doi={10.48550/arXiv.2411.02221}
+}
+```
